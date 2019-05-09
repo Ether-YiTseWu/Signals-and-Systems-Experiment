@@ -2,7 +2,7 @@ clear; clc;
 
 T = 10;
 t = 0:0.1:T-0.1; y = sin(2*pi/3*t);
-subplot(2,2,1); plot(t,y); title('x ( t ) = sin ( 2£k/ 3 t ) , 0 ¡Ø t ¡Ø 10'); xlabel('t');   ylabel('x(t)');  %­ì©l¹Ïx(t)
+subplot(2,2,1); plot(t,y); title('x ( t ) = sin ( 2Â£k/ 3 t ) , 0 Â¡Ã˜ t Â¡Ã˜ 10'); xlabel('t');   ylabel('x(t)');
 
 T1 = 0.1; n = 0:T/T1; y = sin(2*pi/3*n*T1);
 subplot(2,2,2); stem(n,y); title('T_1 = 0.1');  xlabel('n');   ylabel('x_1[n]'); axis([0 100 -1 1])% T = 0.1
