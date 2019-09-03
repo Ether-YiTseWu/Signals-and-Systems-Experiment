@@ -111,5 +111,5 @@ A
 A 
 >
 - Result :    
-![](hhttps://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work12.PNG)
+![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work12.PNG)
 >
