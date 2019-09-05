@@ -1,6 +1,6 @@
 # Signals-and-Systems-Experiment
 ## Overview
-A NTOU-EE Course. According to the course progress, use MATLAB to design some programs relating to knowledge of signals and system.
+A NTOU-EE Course. According to the course progress, use MATLAB to design some programs relating to the knowledge of signals and system.
 >
 
 ## Mind map
@@ -20,7 +20,7 @@ A NTOU-EE Course. According to the course progress, use MATLAB to design some pr
 ## Classwork 01 : 
 >
 - Goal :    
-Practice the fundamental usage of MATLAB syntax and the discrete form of plotting.
+Practice the fundamental syntax of MATLAB and the discrete form of plotting.
 >
 - Result :     
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work01.PNG)
@@ -60,7 +60,7 @@ Computing the discrete time fourier series with fft.
 ## Classwork 06 : 
 >
 - Goal :    
-A 
+The usage of freqz and lsim with system function.
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work06.PNG)
