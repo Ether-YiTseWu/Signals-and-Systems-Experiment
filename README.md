@@ -1,6 +1,6 @@
 # Signals-and-Systems-Experiment
 ## Overview
-A NTOU-EE Course.
+A NTOU-EE Course. According to the course progress, use MATLAB to design some programs relating to knowledge of signals and system.
 >
 
 ## Mind map
@@ -20,7 +20,7 @@ A NTOU-EE Course.
 ## Classwork 01 : 
 >
 - Goal :    
-A 
+Practice the fundamental usage of MATLAB syntax and the discrete form of plotting.
 >
 - Result :     
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work01.PNG)
@@ -28,7 +28,7 @@ A
 ## Classwork 02 : 
 >
 - Goal :    
-A 
+Grasp the concept of independent variable transformation.
 >
 - Result :     
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work02.PNG)
@@ -36,7 +36,7 @@ A
 ## Classwork 03 : 
 >
 - Goal :    
-A 
+Grasp the concept of convolution.
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work03.PNG)
@@ -44,7 +44,7 @@ A
 ## Classwork 04 : 
 >
 - Goal :    
-A 
+Concept of linear time invariant(LTI) systems and the usage of lsim function.
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work04.PNG)
@@ -52,7 +52,7 @@ A
 ## Classwork 05 : 
 >
 - Goal :    
-A 
+Computing the discrete time fourier series with fft.
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work05.PNG)
