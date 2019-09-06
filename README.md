@@ -100,7 +100,7 @@ Practice the process of sampling.
 ## Classwork 11 : 
 >
 - Goal :    
-A 
+The production and analysis of audio signal.
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work11.PNG)
@@ -108,7 +108,7 @@ A
 ## Classwork 12 : 
 >
 - Goal :    
-A 
+Sampling and aliasing. Use MATLAB to generate a tone.
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work12.PNG)
@@ -116,7 +116,7 @@ A
 ## Classwork 13 : 
 >
 - Goal :   
-A 
+Encoding and decoding touch-tone signals.
 >
 - Result :    
 
