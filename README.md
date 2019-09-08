@@ -111,8 +111,7 @@ The production and analysis of audio signal.
 Sampling and aliasing. Use MATLAB to generate a tone.
 >
 - Result :    
-![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work12.PNG)   
-![](https://mu6.me/164572)   
+[![Maneuverability test](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work12.PNG)](https://www.youtube.com/watch?v=dcJeLqNWpcE)
 >
 ## Classwork 13 : 
 >
@@ -120,5 +119,5 @@ Sampling and aliasing. Use MATLAB to generate a tone.
 Encoding and decoding touch-tone signals.
 >
 - Result :    
-
+[The youtube link of touch tone signals.](https://www.youtube.com/watch?v=RW38nKaRgIw)
 >
