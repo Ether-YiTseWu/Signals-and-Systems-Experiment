@@ -111,7 +111,10 @@ The production and analysis of audio signal.
 Sampling and aliasing. Use MATLAB to generate a tone.
 >
 - Result :    
-![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work12.PNG)
+![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work12.PNG)   
+<div align=life> 
+<iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://mu6.me/164572"></iframe>
+</div>
 >
 ## Classwork 13 : 
 >
