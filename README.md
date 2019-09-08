@@ -60,7 +60,7 @@ Computing the discrete time fourier series with fft.
 ## Classwork 06 : 
 >
 - Goal :    
-The usage of freqz and lsim with system function.
+lsim with system function and the usage of freqz function.
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work06.PNG)
@@ -68,7 +68,7 @@ The usage of freqz and lsim with system function.
 ## Classwork 07 : 
 >
 - Goal :    
-A 
+Practice the freqs function and grasp the concept of the continuous time fourier transform(CTFT). 
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work07.PNG)
@@ -76,7 +76,7 @@ A
 ## Classwork 08 : 
 >
 - Goal :    
-A 
+Use fft to compute CTFT. 
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work08.PNG)
@@ -84,7 +84,7 @@ A
 ## Classwork 09 : 
 >
 - Goal :    
-A 
+Use fft and fftshift to compute discrete time fourier transform(DTFT). 
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work09.PNG)
@@ -92,7 +92,7 @@ A
 ## Classwork 10 : 
 >
 - Goal :    
-A 
+Practice the process of sampling.
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work10.PNG)
@@ -100,7 +100,7 @@ A
 ## Classwork 11 : 
 >
 - Goal :    
-A 
+The production and analysis of audio signal.
 >
 - Result :    
 ![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work11.PNG)
@@ -108,8 +108,17 @@ A
 ## Classwork 12 : 
 >
 - Goal :    
-A 
+Sampling and aliasing. Use MATLAB to generate a tone.
 >
 - Result :    
-![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work12.PNG)
+![](https://github.com/tailer954/Signals-and-Systems-Experiment/blob/master/figure/Work12.PNG)   
+![](https://mu6.me/164572)   
+>
+## Classwork 13 : 
+>
+- Goal :   
+Encoding and decoding touch-tone signals.
+>
+- Result :    
+
 >
