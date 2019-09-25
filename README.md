@@ -1,6 +1,6 @@
 # Signals-and-Systems-Experiment
 ## Overview
-A NTOU-EE Course. According to the course progress, use MATLAB to design some programs relating to the knowledge of signals and system, including convolution, fourier transform and sampling theorem.
+A NTOU-EE Course. According to the course progress, use MATLAB to practice some programs relating to the knowledge of signals and system, including convolution, fourier transform and sampling theorem.
 >
 
 ## Mind map
